@@ -1,10 +1,10 @@
 # Insurance-claim-data-
 
-*Problem Statement*
+# *Problem Statement*
 
 A key challenge for the insurance industry is charging each customer an appropriate premium based on the risk they represent. Accurately predicting claim amounts has a significant impact on an insurer’s financial decisions and long-term sustainability. Health-related factors such as BMI, age, smoking habits, and medical conditions play a crucial role in determining insurance costs. Therefore, developing accurate and automated methods for claim prediction is essential.
 
-*Project Overview*
+# *Project Overview*
 
 
 This project focuses on predicting health insurance claim amounts using machine learning algorithms. The goal is to build a system that assists insurance companies in estimating claims more precisely. We implemented and compared multiple models, including Random Forest Regression, Support Vector Regression, XGBoost Regressor, and Linear Regression, using a health insurance dataset. Among these, XGBoost delivered the best performance.
@@ -17,7 +17,7 @@ Patients choose plans that best match their needs
 
 Policymakers analyze and understand pricing trends
 
-*About Dataset*
+# *About Dataset*
 
 The dataset contains various demographic, lifestyle, and health-related features that influence the claim amount of a policyholder:
 
